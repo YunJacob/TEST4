@@ -1,0 +1,3 @@
+byebye<-function(){
+  print("qunima")
+}
